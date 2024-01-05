@@ -14,11 +14,11 @@
         <copyright>Yuta copyright 2016</copyright>
         <item>
           <title>Episode Name 2</title>
-          <link>https://dl.dropboxusercontent.com/scl/fi/9u1wimagljk0u5qrugmy7/cbl.mp3?rlkey=z0clvb4xhijzxnxbvxof3c3z2&dl=0</link>
+          <link>https://dl.dropboxusercontent.com/scl/fi/9u1wimagljk0u5qrugmy7/cbl.mp3?rlkey=z0clvb4xhijzxnxbvxof3c3z2&amp;dl=0</link>
           <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
           <description>The full length episode 2 description</description>
-          <enclosure url="https://dl.dropboxusercontent.com/scl/fi/9u1wimagljk0u5qrugmy7/cbl.mp3?rlkey=z0clvb4xhijzxnxbvxof3c3z2&dl=0" length="36715125" type="audio/mpeg"/>
-          <guid>https://dl.dropboxusercontent.com/scl/fi/9u1wimagljk0u5qrugmy7/cbl.mp3?rlkey=z0clvb4xhijzxnxbvxof3c3z2&dl=0</guid>
+          <enclosure url="https://dl.dropboxusercontent.com/scl/fi/9u1wimagljk0u5qrugmy7/cbl.mp3?rlkey=z0clvb4xhijzxnxbvxof3c3z2&amp;dl=0" length="36715125" type="audio/mpeg"/>
+          <guid>https://dl.dropboxusercontent.com/scl/fi/9u1wimagljk0u5qrugmy7/cbl.mp3?rlkey=z0clvb4xhijzxnxbvxof3c3z2&amp;dl=0</guid>
         </item>
     </channel>
 </rss>
