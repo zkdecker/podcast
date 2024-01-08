@@ -5,7 +5,7 @@
         <image>
             <url>https://dl.dropboxusercontent.com/scl/fi/06hwu34so5ifc9clnt8h0/DreamYearPicture.png?rlkey=ik3leo7kjp7uhenm581id4dad&amp;dl=0</url>
             <title>Dream Year</title>
-            <link>https://dl.dropboxusercontent.com/scl/fi/06hwu34so5ifc9clnt8h0/DreamYearPicture.png?rlkey=ik3leo7kjp7uhenm581id4dad&amp;dl=0</link>
+            <link>https://www.instagram.com/xokatedecker</link>
         </image>
         <itunes:image href="https://dl.dropboxusercontent.com/scl/fi/06hwu34so5ifc9clnt8h0/DreamYearPicture.png?rlkey=ik3leo7kjp7uhenm581id4dad&amp;dl=0"/>
         <description>
@@ -14,6 +14,7 @@
         <itunes:summary>
             This is a private feed for members of the Dream Year 2024 program with Kate Decker
         </itunes:summary>
+        <itunes:subtitle>This is a private feed for members of the Dream Year 2024 program with Kate Decker</itunes:subtitle>
         <language>en-us</language>
         <copyright>Kate Decker</copyright>
         <itunes:author>Kate Decker</itunes:author>
@@ -24,12 +25,13 @@
         <itunes:category text="Education"> <itunes:category text="Self-Improvement" /></itunes:category>
         <itunes:explicit>No</itunes:explicit>
         <item>
-          <title>START here</title>
-          <link>https://dl.dropboxusercontent.com/scl/fi/9u1wimagljk0u5qrugmy7/cbl.mp3?rlkey=z0clvb4xhijzxnxbvxof3c3z2&amp;dl=0</link>
-          <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
-          <description>The full length episode 2 description</description>
-          <enclosure url="https://dl.dropboxusercontent.com/scl/fi/9u1wimagljk0u5qrugmy7/cbl.mp3?rlkey=z0clvb4xhijzxnxbvxof3c3z2&amp;dl=0" length="36715125" type="audio/mpeg"/>
-          <guid>https://dl.dropboxusercontent.com/scl/fi/9u1wimagljk0u5qrugmy7/cbl.mp3?rlkey=z0clvb4xhijzxnxbvxof3c3z2&amp;dl=0</guid>
+          <title>START here + WELCOME</title>
+          <link>https://dl.dropboxusercontent.com/scl/fi/5fqd47k3y48gxnwutupsm/DreamYearWelcome.mp3?rlkey=egjyntmf4wq4pofuj96wmrjno&amp;dl=0</link>
+          <pubDate>Mon, 08 Jan 2024 11:00:00 CDT</pubDate>
+          <description>Hello gorgeous!!!</description>
+          <enclosure url="https://dl.dropboxusercontent.com/scl/fi/5fqd47k3y48gxnwutupsm/DreamYearWelcome.mp3?rlkey=egjyntmf4wq4pofuj96wmrjno&amp;dl=0" length="497" type="audio/mpeg"/>
+          <guid>https://dl.dropboxusercontent.com/scl/fi/5fqd47k3y48gxnwutupsm/DreamYearWelcome.mp3?rlkey=egjyntmf4wq4pofuj96wmrjno&amp;dl=0</guid>
+          <itunes:duration>8:17</itunes:duration>
         </item>
     </channel>
 </rss>
