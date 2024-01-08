@@ -1,19 +1,30 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
     <channel>
         <title>Dream Year</title>
-        <link>https://www.example.com</link>
+        <link>https://www.instagram.com/xokatedecker</link>
         <image>
             <url>https://dl.dropboxusercontent.com/scl/fi/06hwu34so5ifc9clnt8h0/DreamYearPicture.png?rlkey=ik3leo7kjp7uhenm581id4dad&amp;dl=0</url>
-            <title>Podcast Title Here</title>
-            <link>https://www.example.com</link>
+            <title>Dream Year</title>
+            <link>https://dl.dropboxusercontent.com/scl/fi/06hwu34so5ifc9clnt8h0/DreamYearPicture.png?rlkey=ik3leo7kjp7uhenm581id4dad&amp;dl=0</link>
         </image>
+        <itunes:image href="https://dl.dropboxusercontent.com/scl/fi/06hwu34so5ifc9clnt8h0/DreamYearPicture.png?rlkey=ik3leo7kjp7uhenm581id4dad&amp;dl=0"/>
         <description>
-            The full length description for your podcast
+            This is a private feed for members of the Dream Year 2024 program with Kate Decker
         </description>
+        <itunes:summary>
+            This is a private feed for members of the Dream Year 2024 program with Kate Decker
+        </itunes:summary>
         <language>en-us</language>
-        <copyright>Yuta copyright 2016</copyright>
+        <copyright>Kate Decker</copyright>
+        <itunes:author>Kate Decker</itunes:author>
+        <itunes:owner>
+            <itunes:name>&#xA9; Kate Decker</itunes:name>
+            <itunes:email>kacka.skorvanova@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Education"> <itunes:category text="Self-Improvement" /></itunes:category>
+        <itunes:explicit>No</itunes:explicit>
         <item>
-          <title>Episode Name 2</title>
+          <title>START here</title>
           <link>https://dl.dropboxusercontent.com/scl/fi/9u1wimagljk0u5qrugmy7/cbl.mp3?rlkey=z0clvb4xhijzxnxbvxof3c3z2&amp;dl=0</link>
           <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
           <description>The full length episode 2 description</description>
